@@ -9,7 +9,7 @@ November 2025**
 **Get Hands-On with the New\
 *SAP Enterprise Threat Detection, cloud edition***
 
-**\**
+
 
 # Contents
 
@@ -1019,6 +1019,7 @@ And, going back to the list, you find the tag in the list entry, and you
 can search for it
 
 <img src="media/image86.png" alt="image86.png" width="602" height="126">
+
 
 
 
